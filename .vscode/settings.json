@@ -1,0 +1,4 @@
+{
+  "rust-analyzer.server.path": "rust-analyzer",
+  "graphviz-interactive-preview.renderLockAdditionalTimeout": 20000
+}
